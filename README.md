@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Madan Kumar</h1>
 <h3 align="center">A CSE Sophomore who loves to code💻 and play games🎮</h3>
 
+- 👨🏻‍🎓 **A CSE Student**
+
+- 🛠 **Interested in Hacking and Gaming**
+
 - 📫 How to reach me **madankumark11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
