@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madan Kumar</h1>
-<h3 align="center">A CSE Sophomore who loves to code💻 and play games🎮</h3>
+<h3 align="center">A MSCS student who loves to code💻 and play games🎮</h3>
 
 - 👨🏻‍🎓 **A CSE Student**
 
